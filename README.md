@@ -1,1 +1,1 @@
-Designed and Developed a Stopwatch with full Functionalities Single handedly with jQuery and Deployed with Bootstrap.Worked on developing and updating a web page quickly and effectively using HTML5, CSS3, jQuery.
+Designed and Developed a Stopwatch with full Functionalities Single handedly with jQuery and Deployed with Bootstrap.Worked on developing and updating a web page quickly and effectively using HTML5, CSS3, jQuery.The Main task of this is to take quick response of web pages.
